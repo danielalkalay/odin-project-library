@@ -1,2 +1,2 @@
 # odin-project-library
-js -ibrary-app
+js -library-app
